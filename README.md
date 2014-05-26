@@ -20,12 +20,3 @@ Installation
         $ python manage.py runserver
 
 6. Enjoy!
-
- 
-Tutorial
-========
-You can follow the tutorial on [Pypix](http://pypix.com)
-
-1. [Building a Flask Blog: Part1](http://pypix.com/python/building-flask-blog-part-1/)
-2. [Building a Flask Blog: Part2](http://pypix.com/python/building-flask-blog-part2/)
-3. [Building a Flask Blog: Part3](http://pypix.com/python/building-flask-blog-part3/)
