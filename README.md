@@ -20,3 +20,6 @@ Installation
         $ python manage.py runserver
 
 6. Enjoy!
+
+# This will be my starting point for TSP
+Have this heading just to remember what I want to do!
